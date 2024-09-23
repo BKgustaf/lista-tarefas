@@ -1,0 +1,14 @@
+{
+    "name": "lista-tarefas",
+    "version": "1.0.0",
+    "description": "Teste de funcionalidades de uma lista de tarefas.",
+    "main": "script.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^29.0.0",
+      "jsdom": "^20.0.0"
+    }
+  }
+  
